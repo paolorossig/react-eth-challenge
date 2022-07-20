@@ -1,0 +1,91 @@
+{
+  "data": {
+    "name": "Paolo Rossi",
+    "profession": "Fullstack Developer",
+    "phone": "+51973822735",
+    "email": "paolo.rossi@pucp.edu.pe",
+    "website": "https://paolorossi.vercel.app",
+    "address": "Lima, Peru.",
+    "avatar": "https://media-exp2.licdn.com/dms/image/C4E03AQGwiOwYOyJObQ/profile-displayphoto-shrink_400_400/0/1545333932159?e=1663200000&v=beta&t=TKAvuuReVREavolRbOXWhrOSHtnOHblEG4UzCLMlcyY",
+    "experience": [
+      {
+        "jobTitle": "Fullstack Developer",
+        "company": "Rappi",
+        "startDate": "Jun 2022",
+        "endDate": "Present",
+        "jobDescription": "scratch the furniture. Good now the other hand, too lay on arms while you're using the keyboard."
+      },
+      {
+        "jobTitle": "Global BI Analyst",
+        "company": "Rappi",
+        "startDate": "Jul 2021",
+        "endDate": "May 2022",
+        "jobDescription": "Generation of commercial & operations insights through analytics, story telling and data visualization."
+      },
+      {
+        "jobTitle": "Co-founder & Fullstack developer",
+        "company": "Clivi",
+        "startDate": "Apr 2021",
+        "endDate": "Sep 2021",
+        "jobDescription": "scratch the furniture. Good now the other hand, too lay on arms while you're using the keyboard."
+      }
+    ],
+    "academic": [
+      {
+        "institution": "MITx",
+        "degree": "Advanced Program in Data Science",
+        "startDate": "Jul 2021",
+        "endDate": "Present",
+        "description": "Dual Program of the Micromaster in Statistics and Data Scince by MITx and Global Skills Course by Aporta."
+      },
+      {
+        "institution": "Make It Real",
+        "degree": "Fullstack Bootcamp",
+        "startDate": "Nov 2021",
+        "endDate": "May 2022",
+        "description": "Fullstack Bootcamp with Javascript stack, focused on learning by doing group and individual projects."
+      },
+      {
+        "degree": "Bachelor in Industrial Engineering",
+        "institution": "PUCP",
+        "startDate": "Mar 2016",
+        "endDate": "Dic 2020",
+        "description": "Awarded a comprehensive scholarship and graduated in the top 10%. Focus in data analytics courses."
+      }
+    ],
+    "skills": [
+      { "name": "Javascript", "src": "./javascript.svg" },
+      { "name": "Typescript", "src": "./typescript.svg" },
+      { "name": "React", "src": "./react.svg" },
+      { "name": "Next.js", "src": "./nextjs.svg" },
+      { "name": "Vite", "src": "./vite.svg" },
+      { "name": "Prisma", "src": "./prisma.svg" },
+      { "name": "tRPC", "src": "./trpc.svg" },
+      { "name": "Socket.io", "src": "./socketio.svg" },
+      { "name": "Redux", "src": "./redux.svg" },
+      { "name": "TailwindCSS", "src": "./tailwindcss.svg" },
+      { "name": "MongoDB", "src": "./mongodb.svg" },
+      { "name": "MySQL", "src": "./mysql.svg" },
+      { "name": "Firebase", "src": "./firebase.svg" },
+      { "name": "Git", "src": "./git.svg" },
+      { "name": "Jira", "src": "./jira.svg" },
+      { "name": "Python", "src": "./python.svg" }
+    ],
+    "interest": [
+      "Machine Learning",
+      "Microservices",
+      "Start Ups",
+      "Tech gadgets"
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "percentage": "90%"
+      },
+      {
+        "name": "English",
+        "percentage": "50%"
+      }
+    ]
+  }
+}
