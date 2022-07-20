@@ -1,5 +1,5 @@
-import Container from './Container'
-import Timeline from './Timeline'
+import Container from './ui/Container'
+import Timeline from './ui/Timeline'
 import { getData } from '../utils'
 
 const Experience = () => {
@@ -18,8 +18,8 @@ const Experience = () => {
 
   return (
     <Container>
-      <section className="flex flex-col px-4">
-        <h1 className="mb-4 pt-6 text-2xl font-semibold text-slate-800 md:pt-12">
+      <section className="flex flex-col px-4 py-6 md:py-12">
+        <h1 className="mb-4 text-2xl font-semibold text-slate-800">
           Experience
         </h1>
         <Timeline events={events} />

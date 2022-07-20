@@ -16,14 +16,14 @@
         "jobDescription": "scratch the furniture. Good now the other hand, too lay on arms while you're using the keyboard."
       },
       {
-        "jobTitle": "Global BI Analyst",
+        "jobTitle": "BI & Data Analyst",
         "company": "Rappi",
         "startDate": "Jul 2021",
         "endDate": "May 2022",
         "jobDescription": "Generation of commercial & operations insights through analytics, story telling and data visualization."
       },
       {
-        "jobTitle": "Co-founder & Fullstack developer",
+        "jobTitle": "Co-founder & Fullstack Developer",
         "company": "Clivi",
         "startDate": "Apr 2021",
         "endDate": "Sep 2021",
@@ -72,19 +72,21 @@
       { "name": "Python", "src": "./python.svg" }
     ],
     "interest": [
-      "Machine Learning",
-      "Microservices",
-      "Start Ups",
-      "Tech gadgets"
+      { "name": "Machine Learning", "src": "./machine-learning.jpg" },
+      { "name": "Blockchain", "src": "./blockchain.jpg" },
+      { "name": "Microservices", "src": "./microservices.jpg" },
+      { "name": "Start Ups", "src": "./startup.jpg" }
     ],
     "languages": [
       {
         "name": "Spanish",
-        "percentage": "90%"
+        "level": "Native",
+        "src": "./peru.png"
       },
       {
         "name": "English",
-        "percentage": "50%"
+        "level": "Advanced",
+        "src": "./usa.png"
       }
     ]
   }

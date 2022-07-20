@@ -1,5 +1,5 @@
 import { getData } from '../utils'
-import Container from './Container'
+import Container from './ui/Container'
 
 const Header = () => {
   const { avatar, name, profession, phone, email, website, address } = getData()
