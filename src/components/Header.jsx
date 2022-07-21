@@ -3,6 +3,7 @@ import Container from './ui/Container'
 
 const Header = () => {
   const { avatar, name, profession, phone, email, website, address } = getData()
+  const websiteName = website.replace(/^(http:\/\/|https:\/\/)/, '')
 
   return (
     <Container theme="dark">
@@ -26,7 +27,14 @@ const Header = () => {
           <div className="mt-6 grid grid-cols-1 gap-y-1 gap-x-32 text-gray-300 md:grid-cols-2">
             <p>{email}</p>
             <p>{phone}</p>
-            <p>{website}</p>
+            <a
+              href={website}
+              target="_blanck"
+              rel="noopener noreferrer"
+              className="hover:text-brand"
+            >
+              {websiteName}
+            </a>
             <p>{address}</p>
           </div>
         </div>
