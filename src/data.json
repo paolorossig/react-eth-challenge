@@ -2,7 +2,7 @@
   "data": {
     "name": "Paolo Rossi",
     "profession": "Fullstack Developer",
-    "phone": "+51973822735",
+    "phone": "+51 973822735",
     "email": "paolo.rossi@pucp.edu.pe",
     "website": "https://github.com/paolorossig",
     "address": "Lima, Peru.",
@@ -13,7 +13,7 @@
         "company": "Rappi",
         "startDate": "Jun 2022",
         "endDate": "Present",
-        "jobDescription": "scratch the furniture. Good now the other hand, too lay on arms while you're using the keyboard."
+        "jobDescription": "Build and maintain fullstack applications for darkstores related projects. Work with a microservice architecture, using technologies like Kafka, Jenkins and Docker. Code with languages such as Typescript and Golang"
       },
       {
         "jobTitle": "BI & Data Analyst",
@@ -27,7 +27,7 @@
         "company": "Clivi",
         "startDate": "Apr 2021",
         "endDate": "Sep 2021",
-        "jobDescription": "scratch the furniture. Good now the other hand, too lay on arms while you're using the keyboard."
+        "jobDescription": "Build a marketplace web application for the Health Industry."
       }
     ],
     "academic": [

@@ -13,9 +13,9 @@ const Header = () => {
           alt="Profile image"
           className="h-24 w-24 rounded-full md:h-36 md:w-36"
         />
-        <div>
+        <div className="ml-4 flex-1 md:flex-none">
           <h1 className="text-4xl">{name}</h1>
-          <h2 className="mt-2 flex items-center text-lg">
+          <h2 className="mt-2 hidden items-center text-lg md:flex">
             {profession + ' @ '}
             <span className="ml-2 inline-flex h-6">
               <img
@@ -24,7 +24,7 @@ const Header = () => {
               />
             </span>
           </h2>
-          <div className="mt-6 grid grid-cols-1 gap-y-1 gap-x-32 text-gray-300 md:grid-cols-2">
+          <div className="mt-5 grid grid-cols-1 gap-y-1 gap-x-32 text-gray-300 md:grid-cols-2">
             <p>{email}</p>
             <p>{phone}</p>
             <a
